@@ -113,9 +113,9 @@ A complete learning platform supporting both student and instructor workflows.
 
 <!-- Replace YOUR_USERNAME with your GitHub username -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true\&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tushar-Sharma-hub\&show_icons=true\&hide_border=true\&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Sharma-hub\&layout=compact\&hide_border=true)
 
 ---
 
@@ -123,9 +123,9 @@ A complete learning platform supporting both student and instructor workflows.
 
 📧 **Email:** [ts817479@gmail.com](mailto:ts817479@gmail.com)
 
-💼 **LinkedIn:** [Connect with me on LinkedIn](#)
+💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/tushar-sharma-b0a284324/)
 
-🐙 **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+🐙 **GitHub:** [@YOUR_USERNAME](https://github.com/Tushar-Sharma-hub)
 
 ---
 
