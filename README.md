@@ -90,21 +90,6 @@ A complete learning platform supporting both student and instructor workflows.
 
 ---
 
-### 🧠 DropoutGuard — AI-Powered Student Retention Platform
-
-An AI-powered platform designed to identify students at risk of dropping out using academic engagement patterns.
-
-**Built with:** React.js · Node.js · Express.js · MongoDB · Firestore · Firebase Auth · Google Gemini API
-
-* Integrated Google Gemini to identify **at-risk students from engagement patterns**.
-* Achieved **90%+ prediction accuracy**.
-* Built secure REST APIs with Node.js and Express.js.
-* Used MongoDB and Firestore for application data and real-time reads/writes.
-* Built and shipped the complete product within a **24-hour hackathon**.
-* 🏆 **3rd Place — College Hackathon 2026**, among 30+ teams.
-
----
-
 ## 🏆 Achievements
 
 * 🥉 **3rd Place — College Hackathon 2026**
