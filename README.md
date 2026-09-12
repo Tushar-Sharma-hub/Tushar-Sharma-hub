@@ -109,23 +109,11 @@ A complete learning platform supporting both student and instructor workflows.
 
 ---
 
-## 📊 GitHub
-
-<!-- Replace YOUR_USERNAME with your GitHub username -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tushar-Sharma-hub\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Sharma-hub\&layout=compact\&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 📧 **Email:** [ts817479@gmail.com](mailto:ts817479@gmail.com)
 
 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/tushar-sharma-b0a284324/)
-
-🐙 **GitHub:** [@YOUR_USERNAME](https://github.com/Tushar-Sharma-hub)
 
 ---
 
