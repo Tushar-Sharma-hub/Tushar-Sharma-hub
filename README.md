@@ -4,7 +4,6 @@
 
 I'm a Computer Science & Engineering (AI/ML) undergraduate at **Ramdeobaba University, Nagpur**, passionate about building **scalable full-stack applications and AI-powered products**.
 
-* 🎓 B.Tech CSE (AI/ML) — **CGPA: 8.97/10**
 * 💻 Full-Stack Development with the **MERN stack**
 * 🤖 Building applications with **LLMs, RAG & AI integrations**
 * 🧠 **500+ LeetCode problems** solved
