@@ -1,121 +1,87 @@
 # 👋 Hi, I'm Tushar Sharma
 
-### Computer Science Undergraduate · Software Developer · Full-Stack Engineer
+### Full-Stack (MERN) & Generative AI Developer · Software Developer Intern · CSE (AI/ML) Undergraduate
 
-I'm a Computer Science & Engineering (AI/ML) undergraduate at **Ramdeobaba University, Nagpur**, passionate about building **scalable full-stack applications and AI-powered products**.
+I'm a 3rd-year B.Tech Computer Science & Engineering (AI/ML) student at **Ramdeobaba University, Nagpur** (CGPA 8.97/10). I build **scalable full-stack applications and AI-powered products**, from REST APIs and database design to multi-agent LLM workflows.
 
-* 💻 Full-Stack Development with the **MERN stack**
-* 🤖 Building applications with **LLMs, RAG & AI integrations**
-* 🧠 **500+ LeetCode problems** solved
-* 🏆 **3rd Place — College Hackathon 2026**
-* 🏅 **Meta × Scaler Torch Hackathon — National Finalist**
+- 💼 Software Developer Intern @ **WellDone Healthcare**
+- 🏅 **Meta × Scaler Torch Hackathon** – National Finalist
+- 🏆 **3rd Place** – College Hackathon 2026 (30+ teams, 24 hours)
+- 🧠 **500+ LeetCode problems** solved (top 20.29% globally)
 
 ---
 
-## 🚀 What I Build
+## 🚀 Featured Projects
 
-I enjoy turning ideas into production-ready applications, from designing REST APIs and database architectures to building responsive frontends and integrating AI into real-world workflows.
-
-My current interests include:
-
-* Full-Stack Web Development
-* AI-powered applications
-* LLM applications & RAG
-* Backend architecture & REST APIs
-* Data Structures & Algorithms
-* System Design
+| Project | What it does | Stack |
+|---|---|---|
+| [**PathGenie**](https://github.com/Tushar-Sharma-hub/PathGenie) | AI interview prep and career roadmap platform with 5 multi-agent workflows: resume generation, ATS analysis, interview simulation, feedback and roadmaps | React, Node.js, Express, MongoDB, Redis, LangChain, LangGraph, Docker, AWS |
+| [**AICRM**](https://github.com/Tushar-Sharma-hub/AICRMDashboard) | AI-enhanced CRM SaaS with 24+ JWT-protected REST endpoints, multi-tenant data isolation, drag-and-drop sales pipeline, and Gemini-generated lead summaries and email drafts | React 19, Node.js, Express, MongoDB, Gemini API, Recharts |
+| [**EduMotion**](https://github.com/Tushar-Sharma-hub/EduMotion) | Full-stack ed-tech platform with role-based student/instructor workflows, 30+ backend routes, Razorpay payments and Cloudinary uploads | React 18, Redux Toolkit, Node.js, Express, MongoDB |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages**
 
-`C++` `JavaScript` `TypeScript` `SQL`
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend
+**Frontend**
 
-`React.js` `Next.js` `Tailwind CSS` `Redux Toolkit`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
+**Backend & Databases**
 
-`Node.js` `Express.js` `REST APIs` `JWT`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Databases & Storage
+**AI / Generative AI**
 
-`MongoDB` `MySQL` `Firestore` `Redis`
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Vector_Databases-555555?style=for-the-badge)
 
-### AI / LLM
+**Cloud & Tools**
 
-`Google Gemini` `LangChain` `LangGraph` `RAG` `Vector Databases`
-
-### Cloud & DevOps
-
-`AWS` `Docker` `CI/CD`
-
-### Tools
-
-`Git` `GitHub` `Postman`
-
----
-
-## ⭐ Featured Projects
-
-### 🤖 AICRM — AI-Enhanced CRM SaaS
-
-A full-stack CRM platform with AI integrated directly into sales workflows.
-
-**Built with:** React 19 · Vite · Node.js · Express.js · MongoDB · JWT · Google Gemini AI · Recharts · dnd-kit
-
-* Designed **25+ REST API endpoints** covering leads, contacts, tasks, notes, authentication, AI and analytics.
-* Integrated **Google Gemini AI** for lead summaries, sales insights and email generation.
-* Built a drag-and-drop sales pipeline using **dnd-kit**.
-* Created analytics dashboards for revenue, conversion rate and pipeline health.
-* Implemented JWT authentication, bcrypt password hashing, protected routes and modular Mongoose schemas.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🎓 EduMotion — Full-Stack Ed-Tech Platform
+## 🎯 Currently
 
-A complete learning platform supporting both student and instructor workflows.
-
-**Built with:** React 18 · Redux Toolkit · Tailwind CSS · Node.js · Express.js · MongoDB · JWT · Razorpay · Cloudinary
-
-* Built student and instructor/course-builder workflows.
-* Developed **30+ backend route handlers** covering authentication, courses, payments, profiles, ratings and contact.
-* Implemented course creation, enrollment and progress tracking.
-* Added role-based authentication for **student, instructor and admin**.
-* Integrated email OTP authentication, Cloudinary uploads and Razorpay payment verification.
+- Building full-stack features as a Software Developer Intern
+- Strengthening Data Structures & Algorithms in C++
+- Exploring agentic AI workflows, RAG and system design
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Stats
 
-* 🥉 **3rd Place — College Hackathon 2026**
-  Built a generative-AI MERN application within 24 hours among 30+ teams.
-
-* 🏅 **Meta × Scaler Torch Hackathon — National Finalist**
-  Selected among top teams nationwide.
-
-* 🧩 **LeetCode — 500+ Problems Solved**
-  Ranked in the **top 20.29% globally**.
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar-Sharma-hub&show_icons=true&theme=radical&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Sharma-hub&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 🧠 Core CS
+## 📫 Let's Connect
 
-`Data Structures & Algorithms` · `OOP` · `DBMS` · `Computer Networks` · `Operating Systems` · `System Design`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharma4tushar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ts817479@gmail.com)
 
----
-
-## 🤝 Let's Connect
-
-📧 **Email:** [ts817479@gmail.com](mailto:ts817479@gmail.com)
-
-💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/tushar-sharma-b0a284324/)
-
----
-
-### 💡 Currently building, learning, and shipping.
-
-**Always curious. Always improving.**
+Open to internships and entry-level roles in full-stack, backend and GenAI engineering.
