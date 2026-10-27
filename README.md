@@ -72,13 +72,6 @@ I'm a 3rd-year B.Tech Computer Science & Engineering (AI/ML) student at **Ramdeo
 
 ---
 
-## 📊 GitHub Stats
-
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar-Sharma-hub&show_icons=true&theme=radical&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Sharma-hub&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharma4tushar)
